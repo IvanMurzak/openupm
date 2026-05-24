@@ -1,0 +1,27 @@
+data/packages/extensions.unity.gyroscope.manager.yml
+  s_e30159354ab104::t_a3e747c34fed47 6-7
+data/packages/extensions.unity.mouse.parallax.yml
+  s_e30159354ab104::t_f608a52e3d802d 6-7
+data/packages/extensions.unity.playerprefsex.yml
+  s_e30159354ab104::t_5015f645e2e56c 8-9
+data/packages/extensions.unity.theme.yml
+  s_e30159354ab104::t_d5a79fa8e9702d 8-9
+data/packages/extensions.unity.gyroscope.parallax.yml
+  s_e30159354ab104::t_8ceb894656dbd0 6-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "2486f693747840675ba2b2aa2ab24d6fa9a3adee",
+  "prompts": {},
+  "sessions": {
+    "s_e30159354ab104": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f53185a5-f95d-4b3d-91af-dff62c4c25e8",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    }
+  }
+}
