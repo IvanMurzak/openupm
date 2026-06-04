@@ -1,0 +1,19 @@
+data/packages/com.ivanmurzak.unity.mcp.tilemap.yml
+  s_6908d424636975::t_9d1beb8728be92 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "896d78116beff57dd54424d9619e0628c0856aeb",
+  "prompts": {},
+  "sessions": {
+    "s_6908d424636975": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "383d28d1-a361-40a7-9656-23c1b29d7a19",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Ivan Murzak <ivandmurzak@gmail.com>"
+    }
+  }
+}
